@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/farmapp/static/css/main.438ebe47.chunk.css",
-    "main.js": "/farmapp/static/js/main.39ae0078.chunk.js",
-    "main.js.map": "/farmapp/static/js/main.39ae0078.chunk.js.map",
-    "runtime-main.js": "/farmapp/static/js/runtime-main.98283924.js",
-    "runtime-main.js.map": "/farmapp/static/js/runtime-main.98283924.js.map",
+    "main.js": "/farmapp/static/js/main.37b7c6ac.chunk.js",
+    "main.js.map": "/farmapp/static/js/main.37b7c6ac.chunk.js.map",
+    "runtime-main.js": "/farmapp/static/js/runtime-main.2a434421.js",
+    "runtime-main.js.map": "/farmapp/static/js/runtime-main.2a434421.js.map",
     "static/css/2.022337b5.chunk.css": "/farmapp/static/css/2.022337b5.chunk.css",
-    "static/js/2.570f7482.chunk.js": "/farmapp/static/js/2.570f7482.chunk.js",
-    "static/js/2.570f7482.chunk.js.map": "/farmapp/static/js/2.570f7482.chunk.js.map",
-    "static/js/3.8c7bfa0c.chunk.js": "/farmapp/static/js/3.8c7bfa0c.chunk.js",
-    "static/js/3.8c7bfa0c.chunk.js.map": "/farmapp/static/js/3.8c7bfa0c.chunk.js.map",
+    "static/js/2.3d1c2b80.chunk.js": "/farmapp/static/js/2.3d1c2b80.chunk.js",
+    "static/js/2.3d1c2b80.chunk.js.map": "/farmapp/static/js/2.3d1c2b80.chunk.js.map",
+    "static/js/3.3b72d196.chunk.js": "/farmapp/static/js/3.3b72d196.chunk.js",
+    "static/js/3.3b72d196.chunk.js.map": "/farmapp/static/js/3.3b72d196.chunk.js.map",
     "static/js/4.e3e581a6.chunk.js": "/farmapp/static/js/4.e3e581a6.chunk.js",
     "static/js/4.e3e581a6.chunk.js.map": "/farmapp/static/js/4.e3e581a6.chunk.js.map",
     "index.html": "/farmapp/index.html",
     "static/css/2.022337b5.chunk.css.map": "/farmapp/static/css/2.022337b5.chunk.css.map",
     "static/css/main.438ebe47.chunk.css.map": "/farmapp/static/css/main.438ebe47.chunk.css.map",
-    "static/js/2.570f7482.chunk.js.LICENSE.txt": "/farmapp/static/js/2.570f7482.chunk.js.LICENSE.txt",
-    "static/js/3.8c7bfa0c.chunk.js.LICENSE.txt": "/farmapp/static/js/3.8c7bfa0c.chunk.js.LICENSE.txt",
+    "static/js/2.3d1c2b80.chunk.js.LICENSE.txt": "/farmapp/static/js/2.3d1c2b80.chunk.js.LICENSE.txt",
+    "static/js/3.3b72d196.chunk.js.LICENSE.txt": "/farmapp/static/js/3.3b72d196.chunk.js.LICENSE.txt",
     "static/media/binancewallet.6fd9cbfe.svg": "/farmapp/static/media/binancewallet.6fd9cbfe.svg",
     "static/media/all.min.css": "/farmapp/static/media/fa-solid-900.eeccf4f6.woff",
     "static/media/logo.c03ba81a.png": "/farmapp/static/media/logo.c03ba81a.png",
@@ -34,10 +34,10 @@
     "static/media/walletconnect.1edebea6.svg": "/farmapp/static/media/walletconnect.1edebea6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.98283924.js",
+    "static/js/runtime-main.2a434421.js",
     "static/css/2.022337b5.chunk.css",
-    "static/js/2.570f7482.chunk.js",
+    "static/js/2.3d1c2b80.chunk.js",
     "static/css/main.438ebe47.chunk.css",
-    "static/js/main.39ae0078.chunk.js"
+    "static/js/main.37b7c6ac.chunk.js"
   ]
 }
