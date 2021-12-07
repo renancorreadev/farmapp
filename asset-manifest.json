@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/farmapp/static/css/main.31774201.chunk.css",
-    "main.js": "/farmapp/static/js/main.0889809f.chunk.js",
-    "main.js.map": "/farmapp/static/js/main.0889809f.chunk.js.map",
+    "main.js": "/farmapp/static/js/main.692e4173.chunk.js",
+    "main.js.map": "/farmapp/static/js/main.692e4173.chunk.js.map",
     "runtime-main.js": "/farmapp/static/js/runtime-main.9c20e7a5.js",
     "runtime-main.js.map": "/farmapp/static/js/runtime-main.9c20e7a5.js.map",
     "static/css/2.022337b5.chunk.css": "/farmapp/static/css/2.022337b5.chunk.css",
@@ -39,6 +39,6 @@
     "static/css/2.022337b5.chunk.css",
     "static/js/2.3ec1ac0c.chunk.js",
     "static/css/main.31774201.chunk.css",
-    "static/js/main.0889809f.chunk.js"
+    "static/js/main.692e4173.chunk.js"
   ]
 }
